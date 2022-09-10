@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align ="right" alt="coding" width"400" src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e474ftbg8012ijsl7zrxudk79p80a8ovfep2ej5qp3c&amp;rid=giphy.gif&amp;ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrasumer&label=Profile%20views&color=0e75b6&style=flat" alt="esrasumer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esrasumer" alt="esrasumer" /></a> </p>
@@ -26,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrasumer&show_icons=true&locale=en&layout=compact" alt="esrasumer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrasumer&show_icons=true&locale=en" alt="esrasumer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrasumer&" alt="esrasumer" /></p>
