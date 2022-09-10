@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -14,7 +12,7 @@
 - 📫 How to reach me **esrasumer28@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align ="right" alt="coding" width"400" src="https://giphy.com/explore/coding">
+<img align ="right" alt="coding" width"400" src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e474ftbg8012ijsl7zrxudk79p80a8ovfep2ej5qp3c&amp;rid=giphy.gif&amp;ct=g">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/esra-s%c3%bcmer-b1a496232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esra-s%c3%bcmer-b1a496232/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/esrasumer28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/esrasumer28" height="30" width="40" /></a>
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrasumer&show_icons=true&locale=en" alt="esrasumer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrasumer&" alt="esrasumer" /></p>
-
